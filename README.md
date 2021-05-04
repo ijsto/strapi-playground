@@ -1,3 +1,3 @@
-# Strapi application
+# Strapi Playground
 
-A quick description of your strapi application
+This is bare bones playground with GraphQL Plugin and [Strapi Migrate](https://www.npmjs.com/package/strapi-plugin-migrate) plugin
