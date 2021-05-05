@@ -20,7 +20,6 @@
     "strapi-plugin-content-type-builder": "3.6.0",
     "strapi-plugin-email": "3.6.0",
     "strapi-plugin-graphql": "3.6.0",
-    "strapi-plugin-migrate": "^3.5.0",
     "strapi-plugin-upload": "3.6.0",
     "strapi-plugin-users-permissions": "3.6.0",
     "strapi-utils": "3.6.0"

@@ -10414,11 +10414,6 @@ strapi-plugin-graphql@3.6.0:
     pluralize "^8.0.0"
     strapi-utils "3.6.0"
 
-strapi-plugin-migrate@^3.5.0:
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/strapi-plugin-migrate/-/strapi-plugin-migrate-3.5.0.tgz#16497db035e03a0d6a4d622502e3b109b7f914c4"
-  integrity sha512-R5RSCGvZxfQYhsYD/y73/DDeI8yZ9YWUzJ7lih46WK3+j9SK9M8ypX0hUI6v2LipIaEDiPBvG09O6b5vHzbLnw==
-
 strapi-plugin-upload@3.6.0:
   version "3.6.0"
   resolved "https://registry.yarnpkg.com/strapi-plugin-upload/-/strapi-plugin-upload-3.6.0.tgz#ba8d57424b219d2a31770ed09fb524ef2e746eee"
